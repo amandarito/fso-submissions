@@ -1,4 +1,4 @@
-# FullStackOpen
+# FullStackOpengi
 
 - [ ] part 0
 - [ ] part 1
